@@ -1,3 +1,7 @@
+<h1 align="center">Hey there...</h1>
+
+###
+
 <div align="center">
   <img height="150" src="https://i.imgur.com/ym3kb9A.png"  />
 </div>
@@ -15,10 +19,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">Hey there... 👋</h1>
 
 ###
 
@@ -68,10 +68,3 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grshaff/grshaff/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grshaff/grshaff/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/grshaff/grshaff/output/pacman-contribution-graph.svg">
-</picture>
-
-###
